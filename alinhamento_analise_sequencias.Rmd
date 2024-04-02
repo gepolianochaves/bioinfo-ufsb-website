@@ -2,6 +2,12 @@
   title: "Alinhamento e Análise de Sequências"
 ---
 
+#### 0) Pasta de materiais
+
+Clicando no link abaixo, você deverá ter acesso à pasta "dados".
+
+* [Clique para acessar pasta de sequências e materiais da parte prática.](https://drive.google.com/drive/folders/1nPnY3Z5AT9pykmtsfNDglcGgCIHWCcLm?usp=share_link)
+
 #### 1) Alinhamento de Sequências
 
 * [Clique para acessar slides sobre alinhamento de sequências.](htmls/02-02-sequence-alignments-04-01-2025.html)
