@@ -1,0 +1,33 @@
+---
+  title: "Alinhamento e Análise de Sequências"
+---
+
+#### 1) Alinhamento de Sequências
+
+* [Clique para acessar slides sobre alinhamento de sequências.](htmls/02-02-sequence-alignments-04-01-2025.html)
+
+#### 2) Análise Filogenética
+
+* [Notebook em html sobre Análise Filogenética.](htmls/07-Phylogenetic-Analyisis_0.html)
+
+#### 3) Aprendizado de Máquina Não-Supervisionado I: Análise de Clusters
+
+* [Notebook em html sobre armazenamento em cluster hierárquico.](htmls/06-Hierarchical-Clustering.html)
+
+* [Artigo sobre análise de clusteres na heterogeneidade celular de neuroblastoma.](pdfs/van_Groningen_2017.pdf)
+
+* [Vídeo sobre análise de clusters.](https://www.youtube.com/watch?v=7xHsRkOdVwo)
+
+* [Aprendizado de Máquina Supervisionado.](https://www.ibm.com/br-pt/topics/supervised-learning)
+
+#### 4) Aprendizado de Máquina Não-Supervisionado II: Análise de Componente Principal
+
+* [Notebook em html sobre Análise de Componente Principal.](htmls/06-PCA.html)
+
+* [Aprendizado de Máquina Não-Supervisionado.](https://www.ibm.com/br-pt/topics/unsupervised-learning)
+
+#### 5) Modelos Ocultos de Markov
+
+* [Acessar *script* R com Modelos Ocultos de Markov.](htmls/hmm.html)
+
+* [Vídeo sobre modelos matemáticos nas decisões em saúde.](https://www.youtube.com/watch?v=6CYZjLJPK1A)

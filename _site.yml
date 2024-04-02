@@ -1,0 +1,21 @@
+name: "bioinfo-ufsb-website"
+navbar:
+  title: "Página para acessar materiais de Bioinformática"
+  type: "inverse"
+  left:
+      
+    - text: "Algoritmos e bioinformática"  
+      icon: "fa-solid fa-laptop-file"
+      href: "pdfs/02-01-introduction-algorithms-bioinformatics.pdf"
+
+    - text: "Alinhamento e Análise de Sequências"  
+      icon: "fa-solid fa-laptop-file"
+      href: "alinhamento_analise_sequencias.html"
+      
+    - text: "Tecnologias de Sequenciamento"  
+      icon: "fa-solid fa-laptop-file"
+      href: "tecnologias_sequenciamento.html"
+
+output:
+  html_document:
+    theme: paper

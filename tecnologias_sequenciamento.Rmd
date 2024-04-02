@@ -1,0 +1,19 @@
+---
+  title: "Tecnologias de Sequenciamento de DNA"
+---
+
+#### Sequenciamento por síntese
+
+Assista a vídeo. [Clique para assistir vídeo sobre o sequenciamento pela síntese](https://www.youtube.com/watch?v=fCd6B5HRaZ8&t=8s)
+
+#### Introdução ao NGS
+
+Datas de treinamentos de mentores PAEI e gravação de treinamentos encerrados disponibilizados em breve.
+
+Assista a vídeo. [Clique para assistir vídeo sobre o sequenciamento pela síntese](https://www.youtube.com/watch?v=CZeN-IgjYCo)
+
+
+#### Slides
+
+Acessar slides. [Clique para acessar slides](pdfs/02-03-DNA-Sequencing-Technologies.pdf)
+
