@@ -3,10 +3,14 @@ navbar:
   title: "Página para acessar materiais de Bioinformática"
   type: "inverse"
   left:
+  
+    - text: "Home"
+      icon: "fa-home"
+      href: index.html
       
     - text: "Algoritmos e bioinformática"  
       icon: "fa-solid fa-laptop-file"
-      href: "pdfs/02-01-introduction-algorithms-bioinformatics.pdf"
+      href: "algoritmos_bioinformatica.html"
 
     - text: "Alinhamento e Análise de Sequências"  
       icon: "fa-solid fa-laptop-file"
