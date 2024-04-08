@@ -6,7 +6,15 @@ navbar:
   
     - text: "Home"
       icon: "fa-home"
-      href: index.html
+      href: "index.html"
+      
+    - text: "Projeto Pedagógico"
+      icon: "fa-solid fa-diagram-project"
+      href: "https://docs.google.com/document/d/1R8KBAZBIZYbx4ujVaUzFqG7FioTYopXl/edit?usp=sharing&ouid=118102085428546980704&rtpof=true&sd=true"
+      
+    - text: "Manual"
+      icon: "fa-solid fa-book"
+      href: "https://docs.google.com/document/d/1nxLkPso9fEMIKJOuPksHgw7dGR_v44Rb/edit"
       
     - text: "Algoritmos e bioinformática"  
       icon: "fa-solid fa-laptop-file"
